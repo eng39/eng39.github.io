@@ -1,0 +1,37 @@
+html {
+    background-image: url(images/bgimage%20copy.jpg);
+}
+body {
+    width:1000px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    text-align: center;
+    font-family: Arial,Helvetica,sans-serif;
+    
+    border: 4px solid #000;
+    background-color: #DDEDF6;
+}
+img {
+    align-content: center;
+    border: 15px double #595772;
+}
+a {
+    font-size:15pt;
+    color: #777DAC;
+    text-decoration: none;
+}
+a:hover {
+    color:#F3AA51; 
+}
+footer {
+        background-color: #2C2B39;
+        color: #DFE6FD;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    padding: 5px;
+}
